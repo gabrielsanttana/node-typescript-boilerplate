@@ -1,13 +1,11 @@
-import express from "express";
+import express from 'express';
+import router from './routes';
 
 const app = express();
 
 app.use(express.json());
-
-app.get("/", (req, res) => {
-  return res.json({ message: "Hello!" });
-});
+app.use(router);
 
 app.listen(3000, () => {
-  console.log("⚙️  Server is running on port 3000");
+  console.log('⚙️  Server is running on port 3000');
 });
