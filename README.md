@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/logo.png" alt="node-typescript-template" width="240x" />
+  <img src="./.github/logo.png" alt="node-typescript-template" width="400" />
 </div>
 
 <p align="center">🧬 A boilerplate for Node.js APIs with TypeScript set up</p>
