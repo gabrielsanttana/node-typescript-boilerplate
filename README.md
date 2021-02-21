@@ -28,7 +28,7 @@ $ git clone https://github.com/gabrielsanttana/node-typescript-template
 $ cd node-typescript-template
 $ npm install
 
-# Then, you're ready to go and start adding your endpoints!
+# Then, you're ready to go and start adding new endpoints to your API!
 ```
 
 ## 💁🏽 Contribute
