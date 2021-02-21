@@ -27,9 +27,8 @@
 $ git clone https://github.com/gabrielsanttana/node-typescript-template
 $ cd node-typescript-template
 $ npm install
-$ npm start
 
-# Then you're ready to go and add new reducers, actions, and sagas to your project!
+# Then, you're ready to go and start adding your endpoints!
 ```
 
 ## 💁🏽 Contribute
