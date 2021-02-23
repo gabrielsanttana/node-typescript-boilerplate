@@ -2,10 +2,10 @@
   <img src="./.github/logo.png" alt="node-typescript-template" width="400" />
 </div>
 
+<p align="center">🧬 A boilerplate for Node.js APIs with TypeScript set up</p>
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gabrielsanttana/node-typescript-boilerplate/blob/master/LICENSE) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gabrielsanttana/node-typescript-boilerplate/blob/main/CONTRIBUTING.md)
-
-<p align="center">🧬 A boilerplate for Node.js APIs with TypeScript set up</p>
 
 ## 🛠️ Technologies
 
